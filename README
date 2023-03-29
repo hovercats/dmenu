@@ -5,6 +5,7 @@ dmenu is an efficient dynamic menu for X.
 patches/changes
 ---------------
 	- center patch
+	- border patch
 
 
 Requirements
